@@ -8,7 +8,7 @@ https://studiorental-nodejs.onrender.com
 ![Preview Image2](capture2.png)
 
 📄 Description
-A Node.js web application for managing creative studio rentals. Users can register, list, and browse studios, with full CRUD functionality built using Express and data stored in local JSON files.
+- A Node.js web application for managing creative studio rentals. Users can register, list, and browse studios, with full CRUD functionality built using Express and data stored in local JSON files.
 
 ✨ Features
 - View all available creative studio listings
