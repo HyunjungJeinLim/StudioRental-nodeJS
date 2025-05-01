@@ -1,9 +1,9 @@
 # Creative-Studio-Rentals
 
-🎮LIVE DEMO:
+🎮LIVE DEMO (※ Initial load may take a few minute due to free hosting service (Render))
 https://studiorental-nodejs.onrender.com 
 
-🖼️ Previeew Image
+🖼️ Preview Image
 ![Preview Image1](capture1.png)
 ![Preview Image2](capture2.png)
 
